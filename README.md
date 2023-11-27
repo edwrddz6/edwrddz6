@@ -1,6 +1,6 @@
 # Welcome to Edward's GitHub Page!
 
-## Hello, I'm Edward, a front-end developer passionate about learning and collaboration. I enjoy coding, playing guitar, exercising, traveling, and playing with my dog in my free time!
+## Hello, I'm Edward, a full-stack developer student passionate about learning and collaboration. I enjoy coding, playing guitar, exercising, traveling, and playing with my dog in my free time!
 
 ## As of now, I'm currently honing my skills in JavaScript, Node.js, and React. I'm eager to collaborate on projects to help me apply and enhance my skills. Let's connect and build something great together!
 
