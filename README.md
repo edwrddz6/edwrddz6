@@ -1,9 +1,10 @@
 # Welcome to Edward's GitHub Page!
 
-## Hello, I'm Edward, a full-stack developer student passionate about learning and collaboration. I enjoy coding, playing guitar, exercising, traveling, and playing with my dog in my free time!
+<div align="justify">
+    My name is Edward and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now, I am focused on learning everything related to Web Development. I'm passionate about exploring new technologies I can leverage to solve real-life problems.
+</div>
 
-## As of now, I'm currently honing my skills in JavaScript, Node.js, and React. I'm eager to collaborate on projects to help me apply and enhance my skills. Let's connect and build something great together!
-
-![Edward's Github Banner](https://raw.githubusercontent.com/edwrddz6/edwrddz6/main/Modern%20Minimalist%20Simple%20Technology%20Banner.jpg)
+<br/><a href="https://www.linkedin.com/in/edwrddiaz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:diazedward24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 [**Here is a link to my GitHub Portfolio!**](https://edwrddz6.github.io/)
